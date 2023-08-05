@@ -1,6 +1,6 @@
 
 ![I am a Web Developer](https://i.ibb.co/KzT5SFs/Add-a-heading.png)
-### Hi there 👋, I am Jonaied Hasan
+<h1> ### Hi there 👋, I am Jonaied Hasan</h1>
 #### I am a Web Developer
 Dynamic MERN Stack Developer | Building Innovative Web Solutions
 
@@ -8,7 +8,7 @@ Highly skilled MERN Stack Developer with a passion for crafting cutting-edge web
 
 <hr>
 
-<h2 style="color: #333333;">MERN Stack Developer</h2>
+<h2 align='center' style="color: #333333;">My Github Stats</h2>
 
 <div align='center' style="background-color: #f2f2f2">
   <p align="center">
