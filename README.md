@@ -9,7 +9,7 @@ Highly skilled MERN Stack Developer with a passion for crafting cutting-edge web
 <hr>
 
 
-<div>
+<div align='center' style="background-color: #f2f2f2; padding: 20px;">
   <p align="center">
   <a href="https://github.com/JonaiedHasan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonaiedHasan&show_icons=true&theme=radical" alt="Top Languages" />
