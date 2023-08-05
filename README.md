@@ -6,11 +6,8 @@ Dynamic MERN Stack Developer | Building Innovative Web Solutions
 
 Highly skilled MERN Stack Developer with a passion for crafting cutting-edge web applications. Proficient in MongoDB, Express.js, React, and Node.js to deliver robust and scalable solutions. Known for developing elegant user interfaces, optimizing performance, and integrating APIs. Adept at collaborating with cross-functional teams to drive project success. Let's connect and discuss how we can create exceptional digital experiences together!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonaiedHasan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonaiedHasan&show_icons=true&theme=radical)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=JonaiedHasan&show_icons=true&theme=radical)  
 
 <p align="center">
   <a href="https://github.com/JonaiedHasan">
