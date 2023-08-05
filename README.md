@@ -16,11 +16,10 @@ Highly skilled MERN Stack Developer with a passion for crafting cutting-edge web
   <a href="https://github.com/JonaiedHasan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonaiedHasan&show_icons=true&theme=radical" alt="Top Languages" />
   </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonaiedHasan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JonaiedHasan&show_icons=true&theme=radical" alt="GitHub Streak Stats" />
