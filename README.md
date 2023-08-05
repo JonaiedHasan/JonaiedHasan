@@ -8,8 +8,9 @@ Highly skilled MERN Stack Developer with a passion for crafting cutting-edge web
 
 <hr>
 
+<h2 style="color: #333333;">MERN Stack Developer</h2>
 
-<div align='center' style="background-color: #f2f2f2; padding: 20px;">
+<div align='center' style="background-color: #f2f2f2">
   <p align="center">
   <a href="https://github.com/JonaiedHasan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonaiedHasan&show_icons=true&theme=radical" alt="Top Languages" />
